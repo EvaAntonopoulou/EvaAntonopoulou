@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eveantonopoulou@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eva-antonopoulou-78b288216/](https://www.linkedin.com/in/eva-antonopoulou-78b288216/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/eva-antonopoulou-78b288216/](https://www.linkedin.com/in/eva-antonopoulou-78b288216/)](https://www.linkedin.com/in/evangelia-antonopoulou-78b288216/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
