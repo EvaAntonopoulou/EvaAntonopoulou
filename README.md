@@ -1,10 +1,11 @@
 <h1 align="center">Hello there, I'm Eva Antonopoulou 👋</h1> <h3 align="center"> QA Engineer | ISTQB® Certified<br/> Manual Testing · Test Case Design · API Testing </h3> <p align="center"> <img src="https://img.shields.io/badge/ISTQB®-Certified-1D4E89?style=for-the-badge" alt="ISTQB Certified"/> <img src="https://img.shields.io/badge/Based%20in-Athens%2C%20Greece-0A66C2?style=for-the-badge" alt="Athens, Greece"/> <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA44F?style=for-the-badge" alt="Open to opportunities"/> </p>
-🔍 What I Do
-·Design and execute manual test cases - functional, regression, and UAT testing
+🔍 What I Do <br/>
+·Design and execute manual test cases - functional, regression and UAT testing <br/>
 ·Perform API testing with Postman and browser DevTools, validating requests, responses, and integrations
-·Track and manage defects using TestRail and ALM SmartBear
-·Building automation skills with Selenium and JavaScript, and exploring Gherkin for BDD-style test design
-·Keep Agile teams organized and on track using Jira, Asana, Trello, and Slack
+·Track and manage defects using TestRail and ALM SmartBear <br/>
+·Building automation skills with Selenium and JavaScript, and exploring Gherkin for BDD-style test design <br/>
+·Keep Agile teams organized and on track using Jira, Asana, Trello, and Slack <br/>
+
 🚀 About Me
 🌱 Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice
 🎓 ISTQB® Foundation Level Certified — Credential ID GRTB-23-CTFL-1074
