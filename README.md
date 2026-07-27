@@ -6,12 +6,14 @@
 ·Building automation skills with Selenium and JavaScript, and exploring Gherkin for BDD-style test design <br/>
 ·Keep Agile teams organized and on track using Jira, Asana, Trello, and Slack <br/>
 
+<br/>
 🚀 About Me
-🌱 Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice
-🎓 ISTQB® Foundation Level Certified — Credential ID GRTB-23-CTFL-1074
-🏦 Tested banking applications end-to-end, from staging validation to mobile testing across devices
-🎮 Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> - a gaming & pop culture site, run alongside my QA work
-📫 Reach me: eveantonopoulou@gmail.com
+🌱 Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice <br/>
+🎓 ISTQB® Foundation Level Certified — Credential ID GRTB-23-CTFL-1074 <br/>
+🏦 Tested banking applications end-to-end, from staging validation to mobile testing across devices <br/>
+🎮 Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> - a gaming & pop culture site, run alongside my QA work <br/>
+📫 Reach me: eveantonopoulou@gmail.com <br/>
+
 🛠️ Tech Stack
 
 Manual Testing
