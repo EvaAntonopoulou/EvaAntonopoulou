@@ -1,19 +1,41 @@
-<h1 align="center">Hi 👋, I'm Eva Antonopoulou</h1>
-<h3 align="center">A Quality Assurance Tester from Greece</h3>
+<h1 align="center">Hello there, I'm Eva Antonopoulou 👋</h1> <h3 align="center"> QA Engineer | ISTQB® Certified<br/> Manual Testing · Test Case Design · API Testing </h3> <p align="center"> <img src="https://img.shields.io/badge/ISTQB®-Certified-1D4E89?style=for-the-badge" alt="ISTQB Certified"/> <img src="https://img.shields.io/badge/Based%20in-Athens%2C%20Greece-0A66C2?style=for-the-badge" alt="Athens, Greece"/> <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA44F?style=for-the-badge" alt="Open to opportunities"/> </p>
+🔍 What I Do
+Design and execute manual test cases — functional, regression, and UAT testing
+Perform API testing with Postman and browser DevTools, validating requests, responses, and integrations
+Track and manage defects using TestRail and ALM SmartBear
+Building automation skills with Selenium and JavaScript, and exploring Gherkin for BDD-style test design
+Keep Agile teams organized and on track using Jira, Asana, Trello, and Slack
+🚀 About Me
+🌱 Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice
+🎓 ISTQB® Foundation Level Certified — Credential ID GRTB-23-CTFL-1074
+🏦 Tested banking applications end-to-end, from staging validation to mobile testing across devices
+🎮 Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> — a gaming & pop culture site, run alongside my QA work
+📫 Reach me: eveantonopoulou@gmail.com
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on **personal development**
+Manual Testing
 
-- 🌱 I’m currently learning **Gherkin**
+<p> <img src="https://img.shields.io/badge/Manual%20Testing-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Regression%20Testing-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/UAT%20Testing-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Test%20Case%20Design-4B8BBE?style=for-the-badge"/> </p>
 
-- 📫 How to reach me **eveantonopoulou@gmail.com**
+API Testing
 
-- 📄 Know about my experiences https://www.linkedin.com/in/evangelia-antonopoulou-78b288216/
+<p> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Browser%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/evangelia-antonopoulou-78b288216/" target="https://www.linkedin.com/in/evangelia-antonopoulou-78b288216/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eva-antonopoulou-78b288216/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/killlerpumpkin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/killlerpumpkin/" height="30" width="40" /></a>
-</p>
+Automation (Basic)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/> </p>
+
+QA Tools
+
+<p> <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/> <img src="https://img.shields.io/badge/ALM%20SmartBear-FF6600?style=for-the-badge"/> </p>
+
+Web Technologies (Basic)
+
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/> </p>
+
+Project Management
+
+<p> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=F06A6A"/> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Zoho%20CRM-C8202F?style=for-the-badge&logo=zoho&logoColor=white"/> </p>
+
+📊 GitHub Stats
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvaAntonopoulou" alt="GitHub streak stats"/> </p>
