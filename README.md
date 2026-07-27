@@ -7,13 +7,14 @@
 ·Keep Agile teams organized and on track using Jira, Asana, Trello, and Slack <br/>
 
 <br/>
-🚀 About Me
+🚀 About Me <br/>
 🌱 Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice <br/>
-🎓 ISTQB® Foundation Level Certified — Credential ID GRTB-23-CTFL-1074 <br/>
+🎓 ISTQB® Foundation Level Certified <br/>
 🏦 Tested banking applications end-to-end, from staging validation to mobile testing across devices <br/>
 🎮 Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> - a gaming & pop culture site, run alongside my QA work <br/>
 📫 Reach me: eveantonopoulou@gmail.com <br/>
 
+<br/>
 🛠️ Tech Stack
 
 Manual Testing
