@@ -37,5 +37,4 @@ Project Management
 
 <p> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=F06A6A"/> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Zoho%20CRM-C8202F?style=for-the-badge&logo=zoho&logoColor=white"/> </p>
 
-📊 GitHub Stats
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvaAntonopoulou" alt="GitHub streak stats"/> </p>
+
