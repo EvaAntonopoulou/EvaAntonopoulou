@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Eva Antonopoulou 👋</h1> <h3 align="center"> Junior QA Engineer | ISTQB® Certified<br/> Manual Testing · Test Case Design · API Testing </h3> <p align="center"> <img src="https://img.shields.io/badge/ISTQB®-Certified-1D4E89?style=for-the-badge" alt="ISTQB Certified"/> <img src="https://img.shields.io/badge/Based%20in-Athens%2C%20Greece-0A66C2?style=for-the-badge" alt="Athens, Greece"/> <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA44F?style=for-the-badge" alt="Open to opportunities"/> </p>
-🔍 What I Do <br/>
+What I Do <br/>
 ·Design and execute manual test cases - functional, regression and UAT testing <br/>
 ·Perform API testing with Postman and browser DevTools, validating requests, responses and integrations <br/>
 ·Track and manage defects using TestRail and ALM SmartBear <br/>
@@ -7,12 +7,12 @@
 ·Keep Agile teams organized and on track using Jira, Asana, Trello and Slack <br/>
 
 <br/>
-🚀 About Me <br/>
-🌱 Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice <br/>
-🎓 ISTQB® Foundation Level Certified <br/>
-🏦 Tested banking applications end-to-end, from staging validation to mobile testing across devices <br/>
-🎮 Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> - a gaming & pop culture site, run alongside my QA work <br/>
-📫 Reach me: eveantonopoulou@gmail.com <br/>
+About Me <br/>
+Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice <br/>
+ISTQB® Foundation Level Certified <br/>
+Tested banking applications end-to-end, from staging validation to mobile testing across devices <br/>
+Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> - a gaming & pop culture site, run alongside my QA work <br/>
+Reach me: eveantonopoulou@gmail.com <br/>
 
 <br/>
 🛠️ Tech Stack
