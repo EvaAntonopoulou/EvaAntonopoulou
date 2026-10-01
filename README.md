@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Eva Antonopoulou 👋</h1> <h3 align="center"> Junior QA Engineer | ISTQB® Certified<br/> Manual Testing · Test Case Design · API Testing </h3> <p align="center"> 
+<h1 align="center">Hello there, I'm Eva Antonopoulou 👋</h1> <h3 align="center"> Junior QA Engineer | ISTQB® Certified<br/> Manual Testing · Test Case Design · API Testing </h3> 
 What I Do <br/>
 ·Design and execute manual test cases - functional, regression and UAT testing <br/>
 ·Perform API testing with Postman and browser DevTools, validating requests, responses and integrations <br/>
