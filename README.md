@@ -8,32 +8,32 @@ What I Do <br/>
 
 <br/>
 About Me <br/>
-Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice <br/>
-ISTQB® Foundation Level Certified <br/>
-Tested banking applications end-to-end, from staging validation to mobile testing across devices <br/>
-Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> - a gaming & pop culture site, run alongside my QA work <br/>
+·Currently growing my automation skills through hands-on Selenium, JavaScript & Gherkin practice <br/>
+·ISTQB® Foundation Level Certified <br/>
+·Tested banking applications end-to-end, from staging validation to mobile testing across devices <br/>
+·Co-Founder & Editor at <a href="https://pressenter.gr/" target="_blank">Pressenter.gr</a> - a gaming & pop culture site, run alongside my QA work <br/>
 Reach me: eveantonopoulou@gmail.com <br/>
 
 <br/>
-🛠️ Tech Stack
+Tech Stack
 
-Manual Testing
+·Manual Testing
 
 <p> <img src="https://img.shields.io/badge/Manual%20Testing-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Regression%20Testing-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/UAT%20Testing-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Test%20Case%20Design-4B8BBE?style=for-the-badge"/> </p>
 
-API Testing
+·API Testing
 
 <p> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Browser%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </p>
 
-Automation (Basic)
+·Automation (Basic)
 
 <p> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/> </p>
 
-QA Tools
+·QA Tools
 
 <p> <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/> <img src="https://img.shields.io/badge/ALM%20SmartBear-FF6600?style=for-the-badge"/> </p>
 
-Web Technologies (Basic)
+·Web Technologies (Basic)
 
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/> </p>
 
